@@ -1,2 +1,2 @@
 # Webseit-design-tool
-Ein Tool um Webseiten besser designen zu können.
+A tool to better design web pages.
